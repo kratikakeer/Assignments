@@ -33,7 +33,7 @@ public class User {
 		songList.add("Shape of you");
 		songList.add("Love me like you do");
 		songList.add("Cheap thrills");
-		songlist.add("Let me love you");
+		songList.add("Let me love you");
 		ArrayList arraylist = new ArrayList(songList);
 		do {
 			System.out.println("Type the action that you want:\n->play\n->search\n->add\n->delete\n->display\n->exit");
