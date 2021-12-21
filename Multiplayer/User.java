@@ -24,15 +24,16 @@ public class User {
 		User user = new User();
 		HashSet songList = new HashSet<String>();
 		String option;
-		songList.add("boom boom pow");
-		songList.add("moon light");
-		songList.add("great spirit");
-		songList.add("angel from above");
-		songList.add("masakali");
-		songList.add("yaakinge");
-		songList.add("old town road");
-		songList.add("talking to the moon");
-		songList.add("talking to the moon");
+		songList.add("Alone");
+		songList.add("Believer");
+		songList.add("On my way");
+		songList.add("Faded");
+		songList.add("Stay");
+		songList.add("Closer");
+		songList.add("Shape of you");
+		songList.add("Love me like you do");
+		songList.add("Cheap thrills");
+		songlist.add("Let me love you");
 		ArrayList arraylist = new ArrayList(songList);
 		do {
 			System.out.println("Type the action that you want:\n->play\n->search\n->add\n->delete\n->display\n->exit");
