@@ -1,4 +1,4 @@
-package Logger.Mylogger;
+package Logger.MyLogger;
 
 import static org.junit.Assert.assertTrue;
 

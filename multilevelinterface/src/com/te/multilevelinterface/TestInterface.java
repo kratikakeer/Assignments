@@ -1,0 +1,13 @@
+package com.te.multilevelinterface;
+
+public class TestInterface implements Printable, Showable {
+
+	public void print() {
+		System.out.println("Hello");
+	}
+
+	public static void main(String[] args) {
+		TestInterface obj = new TestInterface();
+		obj.print();
+	}
+}
